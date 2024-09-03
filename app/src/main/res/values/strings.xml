@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ProyectAdvisor</string>
+    <string name="find_proyect">Find Proyects :D</string>
+    <string name="proyects">No proyect selected</string>
+
+    <string-array name="proyect_types">
+        <item>infraestructura</item>
+        <item>recreación</item>
+        <item>comercio</item>
+    </string-array>
+</resources>
